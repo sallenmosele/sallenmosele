@@ -1,5 +1,5 @@
-### Olá, eu sou a Sallen! 😊
-Tecnólogo em Análise e Desenvolvimento de Sistemas, tenho conhecimento em infraestrutura e programação.
+### Olá, eu me chamo Sallen Adriana de Souza! 😊
+Sou tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente trabalho com Infraestrutura TI e tenho conhecimentos com programação. Já fui desenvolvedora de software utilizando a linguagem de programação C#, estou me especializando com a linguagem Javascript e seus frameworks, e também tenho um carinho imenso por Cybersegurança. Estou sempre buscando me atualizar das tecnologias, e busco adquirir conhecimentos, novas experiências e aprendizados.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sallensouza/)
