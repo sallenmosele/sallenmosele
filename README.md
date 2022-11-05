@@ -1,12 +1,11 @@
 ### Olá, eu me chamo Sallen Adriana de Souza! 😊
-Sou tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente trabalho com Infraestrutura TI e tenho conhecimentos com programação. Já fui desenvolvedora de software utilizando a linguagem de programação C#, estou me especializando com a linguagem Javascript e seus frameworks, e também tenho um carinho imenso por Cybersegurança. Estou sempre buscando me atualizar das tecnologias, e busco adquirir conhecimentos, novas experiências e aprendizados.
+Tecnólogo em Análise e Desenvolvimento de Sistemas, principais competências: Javascript, HTML, CSS, SASS, Bulma, Bootstrap, React Native, C#, Vue.Js, Node.Js, SQL Server, MongoDB, PostgreeSQL, MySQL.
+Infraestrutura TI: Nextcloud, Zimbra, cPanel, TCP/IP, POP/IMAP, Windows Server, Active Directory, psSense, VPN, Windows/Linux. 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sallensouza/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xkidsn/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sallen.mosele.56/)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sallenmosele/)
 
