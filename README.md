@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Sallen Adriana de Souza! 😊
 Sou Desenvolvedora de Software e Web, e Tecnólogo em Análise e Desenvolvimento de Sistemas.
-Principais competências: JavascriptES6, HTML5, CSS3, SASS, Bulma, Bootstrap, React Native, C#, .NET, Vue.Js, Node.Js, SQL Server, MongoDB, PostgreeSQL, MySQL, API Rest, Jira.
+Principais competências: JavascriptES6, HTML5, CSS3, SASS, Bulma, Bootstrap, React, C#, .NET, Vue.Js, Node.Js, SQL Server, MongoDB, PostgreeSQL, MySQL, API Rest, Jira.
  
 
 
