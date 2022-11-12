@@ -1,6 +1,7 @@
 ### Olá, eu me chamo Sallen Adriana de Souza! 😊
-Tecnólogo em Análise e Desenvolvimento de Sistemas, principais competências: Javascript, HTML, CSS, SASS, Bulma, Bootstrap, React Native, C#, Vue.Js, Node.Js, SQL Server, MongoDB, PostgreeSQL, MySQL.
-Infraestrutura TI: Nextcloud, Zimbra, cPanel, TCP/IP, POP/IMAP, Windows Server, Active Directory, psSense, VPN, Windows/Linux. 
+Sou Desenvolvedora de Software e Web, e Tecnólogo em Análise e Desenvolvimento de Sistemas.
+Principais competências: JavascriptES6, HTML5, CSS3, SASS, Bulma, Bootstrap, React Native, C#, .NET, Vue.Js, Node.Js, SQL Server, MongoDB, PostgreeSQL, MySQL, API Rest, Jira.
+ 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sallensouza/)
