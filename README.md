@@ -1,5 +1,6 @@
 ### Olá, eu me chamo Sallen Adriana de Souza! 😊
-Sou Desenvolvedora de Software e Web, e estudante de Análise e Desenvolvimento de Sistemas.
+Sou Desenvolvedora de Software Full Stack, possuo conhecimento em desenvolvimento Web, mobile, desktop. 
+Estudante cursando 5º semestre de Análise e Desenvolvimento de Sistemas.
 
  
 
@@ -11,7 +12,7 @@ Sou Desenvolvedora de Software e Web, e estudante de Análise e Desenvolvimento 
 
 ![Sallen Github stats](https://github-readme-stats.vercel.app/api?username=sallenmosele&show_icons=true&theme=radical)
 
-## Competências:
+## HARD SKILLS:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
